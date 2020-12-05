@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Header from '@taco/header'
+import Header from '@andyd3v/header'
 export default {
   name: 'Card',
    components: {
