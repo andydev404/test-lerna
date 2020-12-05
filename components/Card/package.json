@@ -1,0 +1,10 @@
+{
+  "name": "@taco/card",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@taco/header": "^0.0.0"
+  }
+}
