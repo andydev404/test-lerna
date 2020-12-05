@@ -1,6 +1,8 @@
 {
   "name": "@andyd3v/card",
   "version": "1.0.1",
+  "module": "index.js",
+  "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
