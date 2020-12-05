@@ -1,11 +1,11 @@
 {
   "name": "@andyd3v/card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@andyd3v/header": "^1.0.0"
+    "@andyd3v/header": "^1.0.1"
   },
   "gitHead": "0d881ccb8cf71b65d73f2cd8750be4d5ca68f164"
 }
